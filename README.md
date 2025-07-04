@@ -4,7 +4,7 @@ Welcome to my LeetCode repository! 🚀 Here, I maintain my solutions to various
 
 ## 📝 About
 - **Author:** Dhruv Yadav
-- **Languages Used:** Python (primary), C++, Java (occasionally)
+- **Languages Used:** Java (primary), Python (occasionally)
 - **Focus Areas:** Data Structures, Algorithms, Dynamic Programming, Graph Theory, and System Design
 - **Current Goal:** Solve at least `X` problems per week to sharpen problem-solving skills.
 
