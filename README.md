@@ -24,20 +24,16 @@ Welcome to my LeetCode repository! 🚀 Here, I maintain my solutions to various
    git clone https://github.com/QuantDhruv/LeetCode.git
    ```
 2. Navigate to the desired category (`Easy`, `Medium`, or `Hard`).
-3. Open the corresponding Python file to review the solution.
-4. Try running the code:
-   ```sh
-   python problem1.py
-   ```
+3. Open the corresponding Java file to review the solution.
 
 ## 💡 Contribution
 This is a personal repository, but if you have suggestions or optimizations, feel free to open an issue or a pull request!
 
 ## 🎯 Progress Tracking
-- [ ] Solve 50 Easy Problems
-- [ ] Solve 100 Medium Problems
-- [ ] Solve 30 Hard Problems
-- [ ] Reach 500+ Total Problems
+- [ ] Solve Easy Problems
+- [ ] Solve  Medium Problems
+- [ ] Solve Hard Problems
+- [ ] Target to reach 500+ Total Problems
 
 ## 📫 Contact
 - **LinkedIn:** [Dhruv Yadav](https://www.linkedin.com/in/dhruv-yadav-a2b410284)
